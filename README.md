@@ -1,2 +1,2 @@
-# CNN_FPGA
-FPGA-based Hardware Accelerator of Convolutional Neural Network 
+
+# FPGA-based Hardware Accelerator of Convolutional Neural Network 
