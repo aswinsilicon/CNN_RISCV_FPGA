@@ -7,4 +7,6 @@ Progress :
 - ### 19th April: Tried solving HDL Bits questions
 - ### 20th April: Introduction to Convolutional Neural Networks by Prof. Fei Fei
 
-- ### 2nd June: Got introduced to Digilent ZedBoard. Read the Zedboard datasheet. 
+- ### 6th June: Got introduced to Digilent ZedBoard. Read the Zedboard datasheet.
+- ### 7th June: RISC-V Add, immediate instructions
+- 
