@@ -9,4 +9,4 @@ Progress :
 
 - ### 6th June: Got introduced to Digilent ZedBoard. Read the Zedboard datasheet.
 - ### 7th June: RISC-V Add, immediate instructions
-- 
+- ### 8th June: RISCV ISA, RISCV Fields: R,I,S
