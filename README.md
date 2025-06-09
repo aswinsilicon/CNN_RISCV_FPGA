@@ -10,3 +10,4 @@ Progress :
 - ### 6th June: Got introduced to Digilent ZedBoard. Read the Zedboard datasheet.
 - ### 7th June: RISC-V Add, immediate instructions
 - ### 8th June: RISCV ISA, RISCV Fields: R,I,S. Designed 32-bit ALU in Verilog.
+- ### 9th June: Designed ALU Decoder, Main Decoder, Data Memory
