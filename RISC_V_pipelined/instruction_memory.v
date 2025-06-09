@@ -1,23 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 06/09/2025 04:30:00 PM
-// Design Name: 
-// Module Name: instruction_memory
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module instruction_memory(pc,instruction_data);
@@ -40,11 +20,7 @@ module instruction_memory(pc,instruction_data);
         $readmemh("test8.hex",RAM);
         $readmemh("test9.hex",RAM);
         $readmemh("test10.hex",RAM);
-        $readmemh("test11.hex",RAM);
-        $readmemh("test12.hex",RAM);
-        $readmemh("test13.hex",RAM);
-        $readmemh("test14.hex",RAM);
-        $readmemh("test15.hex",RAM);
+       
     end 
           
 endmodule
