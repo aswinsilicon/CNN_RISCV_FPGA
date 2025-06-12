@@ -12,4 +12,5 @@ Progress :
 - ### 8th June: RISCV ISA, RISCV Fields: R,I,S. Designed 32-bit ALU in Verilog.
 - ### 9th June: Designed ALU Decoder, Main Decoder, Data Memory, Instruction Memory,    32-bit Adder, 2x1,3x1,4x1 Multiplexer
 - ### 10th June: Designed fetch_decode register, decode_execute register, execute_memory register, memory_writeback register, write back multiplexer, register file, program counter multiplexer,
-- ### 11th June: ForwardAmux,ForwardBmux,id_ex_ctrl,ex_mem_ctrl,mem_wb_ctrl, datapath, controller,hazard unit, Zedboard OLED display was tested, datapath and controller bugs and instantiation issues were resolved.
+- ### 11th June: ForwardAmux,ForwardBmux,id_ex_ctrl,ex_mem_ctrl,mem_wb_ctrl, datapath, controller,hazard unit, Zedboard OLED display was tested, datapath and controller bugs and instantiation issues were resolved and further issues and reports need to be made.
+- ### 12th June: Started with INtroduction of Neural Networks. Understood the concept of Perceptrons, perceptron bias 
