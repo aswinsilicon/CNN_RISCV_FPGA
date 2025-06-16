@@ -14,3 +14,5 @@ Progress :
 - ### 10th June: Designed fetch_decode register, decode_execute register, execute_memory register, memory_writeback register, write back multiplexer, register file, program counter multiplexer,
 - ### 11th June: ForwardAmux,ForwardBmux,id_ex_ctrl,ex_mem_ctrl,mem_wb_ctrl, datapath, controller,hazard unit, Zedboard OLED display was tested, datapath and controller bugs and instantiation issues were resolved and further issues and reports need to be made.
 - ### 12th June: Started with INtroduction of Neural Networks. Understood the concept of Perceptrons, perceptron bias 
+- ### 13th June: Sigmoid Neurons, sigmoid functions, Feedforward neural networks, recurrent neural networks, theory on A simple network designing to classify handwritten digits, algorithm to find weights and biases
+- ### 16th June: Activation Functions basic, 2's complement representation, Designing a Single Neuron.
