@@ -16,4 +16,4 @@ Progress :
 - ### 12th June: Started with Introduction of Neural Networks. Understood the concept of Perceptrons, perceptron bias 
 - ### 13th June: Sigmoid Neurons, sigmoid functions, Feedforward neural networks, recurrent neural networks, theory on A simple network designing to classify handwritten digits, algorithm to find weights and biases
 - ### 16th June: Activation Functions basic, 2's complement representation, Designing a Single Neuron.
-- ### 17th June: Activation Functions: ReLU and Sigmoid implementation in verilog. SigmoidContent Memory initialization file generation using python. Layer 1,2,3,4 designing in verilog
+- ### 17th June: Activation Functions: ReLU and Sigmoid implementation in verilog. SigmoidContent Memory initialization file generation using python. Layer 1,2,3,4 designing in verilog, Introduction to DMA, AXI LITE Interface
