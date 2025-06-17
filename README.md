@@ -17,3 +17,4 @@ Progress :
 - ### 13th June: Sigmoid Neurons, sigmoid functions, Feedforward neural networks, recurrent neural networks, theory on A simple network designing to classify handwritten digits, algorithm to find weights and biases
 - ### 16th June: Activation Functions basic, 2's complement representation, Designing a Single Neuron.
 - ### 17th June: Activation Functions: ReLU and Sigmoid implementation in verilog. SigmoidContent Memory initialization file generation using python. Layer 1,2,3,4 designing in verilog, Introduction to DMA (bus arbitrator,DMA Controller,round-robin arbitration), AXI (advanced extensible interface is memory mapped)LITE Interface, AXI4 Stream, AXI4 Interface
+- ### 18th June: Generation of Custom User IP using verilog IP packaging
