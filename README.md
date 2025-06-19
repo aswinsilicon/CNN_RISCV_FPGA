@@ -18,3 +18,5 @@ Progress :
 - ### 16th June: Activation Functions basic, 2's complement representation, Designing a Single Neuron.
 - ### 17th June: Activation Functions: ReLU and Sigmoid implementation in verilog. SigmoidContent Memory initialization file generation using python. Layer 1,2,3,4 designing in verilog, Introduction to DMA (bus arbitrator,DMA Controller,round-robin arbitration), AXI (advanced extensible interface is memory mapped) LITE Interface, AXI4 Stream, AXI4 Interface
 - ### 18th June: Generation of Custom User IP using verilog IP packaging, performed software simulation by integrating AXI Stream and AXI Lite interfaces with the neural network. Got 98% accuracy with Sigmoid size 10,5 and 96% accuracy with Sigmoid size 5,5. and 90% accuracy with ReLU function. 
+
+- ### 19th June: Created ZyNet IP (neural network IP) and integrated it with Zynq processor, AXI Interconnect, AXI DMA, and Concat.
