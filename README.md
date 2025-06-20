@@ -20,3 +20,4 @@ Progress :
 - ### 18th June: Generation of Custom User IP using verilog IP packaging, performed software simulation by integrating AXI Stream and AXI Lite interfaces with the neural network. Got 98% accuracy with Sigmoid size 10,5 and 96% accuracy with Sigmoid size 5,5. and 90% accuracy with ReLU function. 
 
 - ### 19th June: Created ZyNet IP (neural network IP) and integrated it with Zynq processor, AXI Interconnect, AXI DMA, and Concat.
+- ### 20th June: Generated bitstrem of the zynet ip interfaced with AXI interface and DMA controller, and exported hardware to the Software Developement Kit for final deployment on the hardware
