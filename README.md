@@ -21,3 +21,5 @@ Progress :
 
 - ### 19th June: Created ZyNet IP (neural network IP) and integrated it with Zynq processor, AXI Interconnect, AXI DMA, and Concat.
 - ### 20th June: Generated bitstrem of the zynet ip interfaced with AXI interface and DMA controller, and exported hardware to the Software Developement Kit for final deployment on the hardware
+- ### 23rd June: Introduction to Image Processing on Zynq, Designed a Line Buffer (we are building a grayscale picture (512 x 512) in which 1 pixel will be of size 1 byte)
+- 
