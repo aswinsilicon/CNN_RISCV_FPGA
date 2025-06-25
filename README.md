@@ -23,3 +23,4 @@ Progress :
 - ### 20th June: Generated bitstrem of the zynet ip interfaced with AXI interface and DMA controller, and exported hardware to the Software Developement Kit for final deployment on the hardware
 - ### 23rd June: Introduction to Image Processing on Zynq, Designed a Line Buffer (we are building a grayscale picture (512 x 512) in which 1 pixel will be of size 1 byte), Designed a MAC (multiply accumulate unit), used a 512x512 RGB image and used MATLAB for converting it into grayscale. Then used this grayscale image of size 512 x 512 to make an average normalized Box Blur of size 514 x 514. 
 - ### 24th June: Designed the control logic for multiplexers and instantiation of line buffers, and storing data.
+- ### 25th June: Designed testbench for the image processing
