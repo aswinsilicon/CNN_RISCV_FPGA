@@ -1,5 +1,5 @@
 
-# FPGA-based Hardware Accelerator of Convolutional Neural Network 
+# Hardware-Accelerated Convolutional Neural Network on RISC-V Processor integrated with FPGA
 
 Progress :
 - ### 17th April: Revised Python Programming language
